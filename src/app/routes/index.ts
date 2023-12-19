@@ -1,4 +1,5 @@
 import express from 'express';
+import { ReviewAndRatingRoutes } from '../modules/ReviewAndRating/ReviewAndRating.routes';
 import { AuthRoutes } from '../modules/auth/auth.routes';
 import { CategoryRoutes } from '../modules/category/category.routes';
 import { TrailerRoutes } from '../modules/trailer/trailer.routes';
@@ -23,6 +24,10 @@ const moduleRoutes = [
   {
     path: '/movies',
     route: MovieRoutes,
+  },
+  {
+    path: '/review&ratings',
+    route: ReviewAndRatingRoutes,
   },
 ];
 
