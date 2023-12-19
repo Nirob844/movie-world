@@ -1,5 +1,25 @@
 # Movie World
 
+## Project Overview
+The Movie World Backend project aims to develop a robust backend system for managing a movie platform where users can review movies, create watchlists, and interact with diverse movie-related content. 
+
+## Key Features
+1.	User Management:
+
+2.	Movie Management:
+
+3.	Review and Rating:
+
+4.	Watchlists:
+
+5.	Category Management:
+
+6.	Trailer Management:
+
+## Technologies Used
+-	Nodejs, Express.js, Prisma, PostgreSQL, Zod, Jwt
+
+
 ## Installation Steps
 
 ### Follow these steps to clone and set up starter project:
@@ -35,3 +55,7 @@ JWT_EXPIRES_IN=30d
 JWT_REFRESH_SECRET='very-refresh-secret'
 JWT_REFRESH_EXPIRES_IN=365d
 ```
+### Postman Documenttaion for api endpoint: https://documenter.getpostman.com/view/27398089/2s9YkodgaU
+
+
+
