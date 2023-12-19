@@ -24,6 +24,16 @@
             "date": 1702976645435,
             "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-15-error.log",
             "hash": "f1e23323add74e676db6e4f7d5928daf8079bde075511193e238f41a2f743585"
+        },
+        {
+            "date": 1702981837483,
+            "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-16-error.log",
+            "hash": "363bbc8d53a1753f2a43026e4785a9f7004b913a5a991b1fb6cd5f4da3a63adc"
+        },
+        {
+            "date": 1702983912791,
+            "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-17-error.log",
+            "hash": "d37a1cc3c9715180463752f41fcbeafaf2e2a86476457a13419da6705f3247ac"
         }
     ],
     "hashType": "sha256"
