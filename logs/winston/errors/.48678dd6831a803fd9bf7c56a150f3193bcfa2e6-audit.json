@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\.48678dd6831a803fd9bf7c56a150f3193bcfa2e6-audit.json",
+    "files": [
+        {
+            "date": 1702958790573,
+            "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-10-error.log",
+            "hash": "be55c6ec75b2173c923cb1aecbc9df8192250ef9a6f2dcd5867f6ffeee613bae"
+        },
+        {
+            "date": 1702962002012,
+            "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-11-error.log",
+            "hash": "9dc349616ad6fcc178436ad546b8d82b1548b5d232149ecf1f7770552e7ace4d"
+        }
+    ],
+    "hashType": "sha256"
+}
