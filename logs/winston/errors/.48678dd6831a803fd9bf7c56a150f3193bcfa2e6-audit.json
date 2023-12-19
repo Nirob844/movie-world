@@ -14,6 +14,11 @@
             "date": 1702962002012,
             "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-11-error.log",
             "hash": "9dc349616ad6fcc178436ad546b8d82b1548b5d232149ecf1f7770552e7ace4d"
+        },
+        {
+            "date": 1702966557262,
+            "name": "C:\\project\\job-task\\movie-world\\logs\\winston\\errors\\backend-2023-19-12-12-error.log",
+            "hash": "4ad183389b25b0e8a89b65f6cb372d881297ea578d4fc709b2f2f0db25137b7d"
         }
     ],
     "hashType": "sha256"
