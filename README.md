@@ -43,6 +43,11 @@ cd movie-world
 ```bash
 yarn install
 ```
+4. `run project:` 
+
+```bash
+yarn start
+```
 
 - Create a .env file in the project root directory and set the DATABASE_URL environment variable. Replace the placeholders with your database connection and json web token :
 
